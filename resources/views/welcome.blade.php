@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    PLATAFORMA CONTADOR
+                    PLATAFORMA CONTADOR SEGUNDO COMMIT
                 </div>
 
                 <div class="links">
