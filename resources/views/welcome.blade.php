@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    PLATAFORMA CONTADOR VIRTUAL
+                    PLATAFORMA CONTADOR
                 </div>
 
                 <div class="links">
